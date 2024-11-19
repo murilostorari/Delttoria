@@ -1,0 +1,13 @@
+Jadlog: Nessa modalidade não a peso limite, já o valor e o prazo de entrega variam dependendo do peso e região, após o despacho da mercadoria entre no site https://www.jadlog.com.br/jadlog/home e utilize o CPF como código de rastreio para acompanhar a entrega do pedido.
+ 
+Correios Pac: A Taxa mais barata de entrega dos correios, nessa modalidade o pedido pode conter até 28kg, o valor e o prazo de entrega variam dependendo do peso e região, assim que o pedido for despachado o código de rastreio será encaminhado no e-mail do comprador (a)
+
+Correios Sedex: A Forma mais ágil de entrega dos correios, nessa modalidade o pedido pode conter até 28kg, o valor e o prazo de entrega variam dependendo do peso e região, assim que o pedido for despachado o código de rastreio será encaminhado no e-mail do comprador (a)
+ 
+Expressos Ultra: Nessa modalidade o pedido pode conter até 8kg, o prazo para a entrega é de 4 dias úteis com o valor fixo de R$ 11,99, não há código de rastreio, pois as entregas são feitas via motoboy o pedido será entregue dentro do prazo informado no momento da compra.
+ 
+Transporte Asv: Nessa modalidade, o frete é gratuito em compras acima de R$450,00 para determinados CEPs na Capital e na Região Metropolitana de São Paulo (verifique o seu CEP). Não há restrição de peso, e não são fornecidos códigos de rastreamento, pois as entregas são realizadas por nosso próprio caminhão. O pedido será entregue dentro do prazo informado ao cliente no momento da compra.
+ 
+Retirada em Loja: Nessa modalidade, você pode efetuar a compra pelo site e retirar o pedido em nossa loja física. Não há restrição de peso, e a retirada pode ser feita após 4 dias úteis, sem custo de frete. O ponto de retirada é a loja 3, localizada na Avenida Mercúrio, 154, CEP: 0300700, Bairro: Brás, Cidade: São Paulo.
+
+Entrega a combinar: concedemos aos nossos clientes a liberdade de realizar a cotação de frete após o encerramento do pedido. Essa abordagem é especialmente indicada para quem procura uma solução personalizada no processo de envio, permitindo a escolha da transportadora, obtenção de cotações detalhadas e a coordenação do envio para o destino desejado.
